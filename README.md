@@ -17,7 +17,6 @@ It helps businesses:
 - Monitor purchases and vendors
 - Identify quality issues
 - Track dispatch and receivables
-- Analyze financial performance
 
 ## 🔑 Key Features
 
